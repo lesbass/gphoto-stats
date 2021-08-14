@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Gkmo.Google.Apis.PhotosLibrary.v1" Version="1.36.1.1471" />
+    <PackageReference Include="Google.Apis" Version="1.53.0" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.53.0" />
+    <PackageReference Include="Google.Cloud.Firestore" Version="2.4.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Linq.Async" Version="5.0.0" />
+  </ItemGroup>
+</Project>

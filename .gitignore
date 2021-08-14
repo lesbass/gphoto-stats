@@ -1,0 +1,12 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GPhotoStats.BL/bin
+/GPhotoStats.BL/obj
+/GPhotoStats.DL/bin
+/GPhotoStats.DL/obj
+/GPhotoStats.Web/bin
+/GPhotoStats.Web/obj
+/gphotostats-a9005-firebase-adminsdk-emyxo-1e40e9c3b4.json
